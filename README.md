@@ -1,4 +1,4 @@
 # local_gvt
 
-We provide the data used in: Ayouba, K., Duboz, M. L., & Le Gallo, J. (2023). Assessing French departments’ spending efficiency over time. Applied Economics. https://doi.org/10.1080/00036846.2023.2167925
+We provide codes and data used in: Ayouba, K., Duboz, M. L., & Le Gallo, J. (2023). Assessing French departments’ spending efficiency over time. Applied Economics. https://doi.org/10.1080/00036846.2023.2167925
 
